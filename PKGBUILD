@@ -2,8 +2,8 @@
 # Maintainer: BlackEagle <ike.devolder@gmail.com>>
 
 pkgname=kodi-addon-visualization-fishbmc
-_commit=dbe5db4
-pkgver=20170516.dbe5db4
+_commit=b1d1ea6
+pkgver=20170518.b1d1ea6
 pkgrel=1
 pkgdesc="Fische visualizer for Kodi"
 arch=('i686' 'x86_64')
